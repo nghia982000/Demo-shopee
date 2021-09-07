@@ -43,6 +43,9 @@
         width: 80px;
         text-align: right;
     }
+     .mobile-category{
+        display: block;
+    }
 }
 
 /* mobile */
